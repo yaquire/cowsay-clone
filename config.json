@@ -1,14 +1,4 @@
 {
-  "user_name": "yaqube",
-  "initial_setup_done": true,
-  "tasks": [
-    {
-      "name": "Fisnish checkout page",
-      "done": false
-    }
-  ],
-  "disable_line": false,
-  "disable_quotes": false,
-  "disable_greeting": false,
-  "time_format_24h": false
+  "name":"yaquber",
+  "quotes":"true"
 }
