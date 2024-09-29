@@ -1,3 +1,13 @@
 {
-  "Ryomen Sukuna":"Stand proud you are strong"
+  "quotes": 
+  [
+  {
+    "Said By": "Ryomen Sukuna",
+    "Quote"  :"Stand proud you are strong"
+  },
+  {
+    "Said By":"Jesus",
+    "Quoute": ""
+  }
+  ]
 }
